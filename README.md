@@ -48,9 +48,9 @@ The system successfully automates irrigation, reducing water wastage and manual 
 
 ## Author
 
-**Sampath Magapu**  
-Email: [sampathmagapu11@gmail.com](mailto:sampathmagapu11@gmail.com)  
-LinkedIn: [https://www.linkedin.com/in/sampath-magapu-9b5102253/](https://www.linkedin.com/in/sampath-magapu-9b5102253/)
+**Anil Sai Vallabhu**  
+Email: [vallabhuanilsai@gmail.com](mailto:vallabhuanilsai@gmail.com)  
+LinkedIn: [https://www.linkedin.com/in/vallabhu-anil-sai-70a5a1366/](https://www.linkedin.com/in/vallabhu-anil-sai-70a5a1366/)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
